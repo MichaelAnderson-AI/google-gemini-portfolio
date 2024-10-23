@@ -1,10 +1,9 @@
-<a href="https://kaifaiportfolio.vercel.app/">
-  <img src="https://github.com/kaifcoder/gemini-ai-portfolio/assets/57701861/f59afa66-a94d-4e5f-a304-0afe99da3fc1" alt="kaif portfolio image"/>
-  <h1 align="center">AI Portfolio of Mohd Kaif</h1>
+<a href="https://bubble-buddy.vercel.app/">
+  <h1 align="center">AI Portfolio of Michael Anderson</h1>
 </a>
 
 <p align="center">
-This is a unique Portfolio of Mohd Kaif In which user can interact with the AI chatbot and can see the projects and blogs. This is Made with Aceternity UI,Google gemini and Vercel AI SDK.
+This is a unique Portfolio of Michael Anderson In which user can interact with the AI chatbot and can see the projects and blogs. This is Made with Aceternity UI,Google gemini and Vercel AI SDK.
 </p>
 
 <p align="center">
